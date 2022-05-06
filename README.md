@@ -1,0 +1,2 @@
+# vimsetup
+my vim setting
